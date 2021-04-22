@@ -1,0 +1,12 @@
+{
+  "name": "gr8bit",
+  "version": "1.0.0",
+  "description": "i love learning!",
+  "main": "index.js",
+  "author": "B and T",
+  "license": "MIT",
+  "engines": {
+    "yarn": "1.22.x",
+    "node": "14.16.x"
+  }
+}
